@@ -15,3 +15,6 @@ Simply integrate WEPIN and we bring the users to your business. SDK (Widget / AP
 
 #### Wepin Native SDK for iOS
 - [`wepin-ios-sdk`](https://github.com/WepinWallet/wepin-ios-sdk)
+
+#### Wepin Flutter SDK for Andoird/iOS
+- [`wepin-flutter-sdk`](https://github.com/WepinWallet/wepin-flutter-sdk)
