@@ -10,11 +10,11 @@ Simply integrate WEPIN and we bring the users to your business. SDK (Widget / AP
 
 ### 📱 Mobile SDKs
 
-#### Wepin Native SDK for Android
+#### Wepin Android SDK
 - [`wepin-android-sdk`](https://github.com/WepinWallet/wepin-android-sdk)
 
-#### Wepin Native SDK for iOS
+#### Wepin iOS SDK
 - [`wepin-ios-sdk`](https://github.com/WepinWallet/wepin-ios-sdk)
 
-#### Wepin Flutter SDK for Andoird/iOS
+#### Wepin Flutter SDK
 - [`wepin-flutter-sdk`](https://github.com/WepinWallet/wepin-flutter-sdk)
