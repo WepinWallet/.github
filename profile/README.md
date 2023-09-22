@@ -6,6 +6,7 @@ Simply integrate WEPIN and we bring the users to your business. SDK (Widget / AP
 ### 🌏 Web SDKs
 #### Wepin Widget Javascript SDK for Web
 - [`@wepin/widget-sdk`](https://github.com/WepinWallet/wepin-widget-js-sdk)
+- [`@wepin/provider`](https://github.com/WepinWallet/wepin-widget-js-sdk-provider)
 - [`@wepin/types`](https://github.com/WepinWallet/wepin-js-sdk-types)
 
 ### 📱 Mobile SDKs
