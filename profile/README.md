@@ -9,6 +9,9 @@ Simply integrate WEPIN and we bring the users to your business. SDK (Widget / AP
 - [`@wepin/provider`](https://github.com/WepinWallet/wepin-widget-js-sdk-provider)
 - [`@wepin/types`](https://github.com/WepinWallet/wepin-js-sdk-types)
 
+#### Wepin Wagmi Connector 
+- [`@wepin/wagmi-connector`](https://github.com/WepinWallet/wepin-wagmi-connector)
+  
 ### 📱 Mobile SDKs
 
 #### Wepin Android SDK
