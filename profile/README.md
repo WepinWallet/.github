@@ -25,3 +25,6 @@ Simply integrate WEPIN and we bring the users to your business. SDK (Widget / AP
 
 #### Wepin React Native SDK
 - [`wepin-react-native-sdk`](https://github.com/WepinWallet/wepin-react-native-sdk)
+
+#### Wepin Unity SDK
+- [`wepin-unity-sdk`](https://github.com/WepinWallet/wepin-unity-sdk)
